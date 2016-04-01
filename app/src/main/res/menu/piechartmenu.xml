@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/distance"
+        android:title="Distance">
+    </item>
+    <item
+        android:id="@+id/startHeartRate"
+        android:title="Start Heart Rate">
+    </item>
+    <item
+        android:id="@+id/endHeartRate"
+        android:title="End Heart Rate">
+    </item>
+    <item
+        android:id="@+id/caloriesBurned"
+        android:title="Calories Burned">
+    </item>
+</menu>
